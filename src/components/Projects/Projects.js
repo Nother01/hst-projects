@@ -16,7 +16,7 @@ function Projects() {
           Projet <strong className="purple"> open source</strong>
         </h1>
         <p style={{ color: "white" }}>
-          Voici quelque projet personnel.
+          Voici quelques projets personnel.
           <br />
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>

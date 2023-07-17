@@ -19,13 +19,13 @@ function Home2() {
               PERMETTEZ-MOI DE ME <span className="purple">PRÉSENTER</span>
             </h1>
             <p className="home-about-body">
-              J'ai développé une passion pour la programmation et acquit de solides expériences dans plusieurs langages, tels que le <i><b className="purple">C/C++, Go, Haskell</b></i> ainsi que <i><b className="purple">Javascript</b></i> avec <i><b className="purple"> Node.js</b></i> et <i><b className="purple"> React.js</b></i>.
+              J'ai développé une passion pour la programmation et acquis de solides expériences dans plusieurs langages, tels que le <i><b className="purple">C/C++, Go, Haskell</b></i> ainsi que <i><b className="purple">Javascript</b></i> avec <i><b className="purple"> Node.js</b></i> et <i><b className="purple"> React.js</b></i>.
               <br />
-              Mon domaine d'intérêt couvre le développement <i><b className="purple">web</b></i> à la création de <i><b className="purple">software complexe</b></i>.
+              Mon domaine d'intérêt couvre le développement <i><b className="purple">web</b></i> jusqu'a la création de <i><b className="purple">software complexe</b></i>.
               <br />
               <br />
-              J'adore rencontrer de nouvelles problématiques dans le but d'acquérir de<br />
-              <b className="purple">nouvelle connaissance</b> et d'explorer <b className="purple">les possibilités</b> que la programmation nous offre.
+              J'adore rencontrer de nouvelles problématiques dans le but d'acquérir de
+              <b className="purple"> nouvelles connaissances</b> et d'explorer <b className="purple">les possibilités</b> que la programmation nous offre.
               <br />
               <br />
               <br />
