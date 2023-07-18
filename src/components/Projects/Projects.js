@@ -16,7 +16,7 @@ function Projects() {
           Projet <strong className="purple"> open source</strong>
         </h1>
         <p style={{ color: "white" }}>
-          Voici quelques projets personnel.
+          Voici quelques projets personnels. Mes autres réalisations étant privées dans le cadre d'Epitech
           <br />
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
